@@ -1,2 +1,12 @@
+.DS_Store
+*.swp
+*.tmp
 .venv/
-data/raw/*.csv
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+data/raw/*
+Healthcare_Data_Project/data_files/*.csv
+.env
+*.log
